@@ -6,7 +6,7 @@ tag: Android
 ---
 
    法国当地时间6月19日下午8点，OPPO在卢浮宫贝聿铭设计的透明金字塔正下方召开了Find X发布会。
-<img src="//n.sinaimg.cn/tech/crawl/116/w550h366/20180621/NBZX-hefphqk8205158.jpg" alt="">
+  <img src="//n.sinaimg.cn/tech/crawl/116/w550h366/20180621/NBZX-hefphqk8205158.jpg" alt="">
    这也是OPPO Find系列在时隔四年之后，再次推出新款机型，也标志着OPPO正式进军欧洲市场。
 ### Wifi 定位原理
 
