@@ -1,13 +1,12 @@
 ---
 layout: post
-title:OPPO Find X发布：前后摄像头皆可升降 售999欧元起
+title: OPPO Find X发布：前后摄像头皆可升降 售999欧元起
 date: 2018-06-20 
-tag: Android
+tag: iOS
 ---
 
-   法国当地时间6月19日下午8点，OPPO在卢浮宫贝聿铭设计的透明金字塔正下方召开了Find X发布会。
-  <img src="//n.sinaimg.cn/tech/crawl/116/w550h366/20180621/NBZX-hefphqk8205158.jpg" alt="">
-   这也是OPPO Find系列在时隔四年之后，再次推出新款机型，也标志着OPPO正式进军欧洲市场。
+　　对于大家来说，Wifi 应该是一个很熟悉的词了，我们每天都可能在使用 Wifi 热点。Wifi 除了能给我们提供热点之外同时还有定位的作用， 现在移动设备的对用户的隐私保护是越来越严格了，就如定位功能，必须要经过设备用户的授权才能使用 Location 给这台设备定位。这些严格的隐私政策对用户起到到保护作用，但对开发人员却是一种阻碍，在产品强需求的情况下用户是会授权的，如地图类应用，但是另外一些没有对定位强需求的产品，用户可能就不会给你授权了，这是我们可以考虑下 Wifi 定位了。
+
 ### Wifi 定位原理
 
 　　当我们使用手机扫面 Wifi 的时候，其实就可以定位到这台手机的位置信息了。每个 Wifi 路由开启后，都会不停的往四周发射信号，我们把 Wifi 路由想象成太阳以某种频度不停的往周围发射电磁波，电磁波会因距离的削弱，同时也会因为物体阻挡而削弱。例子就是我们在离 Wifi 路由器同样远的位置，有些地方信号强度高有些地方信号强度低。路由同时也叫 Wifi 热点（或者 Wifi AP：Access Point）。每一个 Wifi 路由器都会有一个 BSSID，很多人都管这个 BSSID 叫 MAC 地址（其实 BSSID 并不是 MAC 地址），BSSID 设定了一般就不会在变也不会重复，也就意味着是全球唯一的，这是路由制造的规则，既然有规则那么就会有不遵守规则的人，文章结尾会介绍不遵守规则的人是如何害人害己的。
@@ -153,7 +152,4 @@ NEHotspotNetwork 里有如下信息：
 参考资源：[NEHotspotHelper NetworkExtension API iOS9.0](http://stackoverflow.com/questions/31704292/nehotspothelper-networkextension-api-ios9-0)
 
 <br>
-转载请注明：[潘柏信的博客](http://baixin) » [Wifi 定位原理及 iOS Wifi 列表获取](http://baixin.io/2017/01/iOS_Wifilist/)  
-
-
-
+转载请注明：[潘柏信的博客](http://baixin) » [Wifi 定位原理及 iOS Wifi 列表获取](http://baixin.io/2017/01/iOS_Wifilist/) 
