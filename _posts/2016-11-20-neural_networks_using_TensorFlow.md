@@ -7,7 +7,7 @@ tags: 科技
 
 　　微软游戏部门负责人Phil Spencer认为帧数和载入时间将是主机（包括下一代Xbox）可以提高的两个点。
   
-  <img src="//inews.gtimg.com/newsapp_match/0/4039125171/0" class="content-picture">
+  <img src="/images/0.jpg" height="337" width="600">
 
 　　在E3上，微软借此机会预告了新的Xbox主机，称下一代Xbox已经在“深度架构”中。消息公布后，玩家就会有各种期待，比如新的主机将有什么功能，首发游戏有哪些，什么时候发售。                  
                            
@@ -17,5 +17,6 @@ tags: 科技
   
   Spencer指出今年E3上新公布的FastStart功能将是公司希望解决这个问题的其中一个方式。通过FastStart，玩家首次进入游戏时所需的时间缩减为以前的一半，并且只需下载一小部分关键文件即可以进入游戏。FastStart将识别运行游戏所需的文件并优先下载这些文件，这使玩家能够尽快地进入游戏，而游戏的其余内容将在玩家畅玩的同时在后台继续下载。玩家只需找到想玩且支持FastStart的游戏，点击“下载”，玩家的游戏主机将处理剩余工作，过程十分便捷。
   
- <img src="//inews.gtimg.com/newsapp_match/0/4039136970/0" class="content-picture">
+ <img src="/images/0(1).jpg" height="393" width="770">
+
   
