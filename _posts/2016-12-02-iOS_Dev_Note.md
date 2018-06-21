@@ -1,63 +1,51 @@
 ---
 layout: post
-title: iOS开发中的小问题记录
-date: 2016-12-02 
-tag: iOS
+title: vivo NEX发布：伸缩镜头+屏幕发声技术 3898元起售
+date: 2018-06-12 
+tag: Android
 ---
 
-### NSKeyedArchiver 自定义对象写文件
+   6月12日，vivo将在上海举行新品发布会，届时，期待已久的旗舰vivo NEX将会与大家见面，从目前的消息来看，这款全新旗舰集多项黑科技于一身，屏占比也会超出行业标准，另外，该机还将有光学屏内指纹、升降式前置摄像头等新技术上身。
+
+### 配置简评
+
+   屏幕方面，vivo NEX配备了一块6.59英寸的OLED显示屏，屏幕的显示比例为19.3:9，分辨率1080P，支持DCI-P3广色域。根据vivo官方给出的数据，NEX的顶部边框和底部边框分别为2.16mm和5.08mm。
+   
+   <img src="//inews.gtimg.com/newsapp_bt/0/3951738276/641" style="display:block;">
+   
+   核心硬件方面，vivo NEX分为两个版本，标准版配备了骁龙710处理器，6+128GB的内存。而旗舰版则配备了骁龙845处理器，8+128/256GB内存。两款手机的电池容量都达到了4000毫安时。
+   
+   <img src="//inews.gtimg.com/newsapp_bt/0/3952038574/641" style="display:block;">
+   
+   另外一个区别在于指纹。标准版的NEX使用的是背部指纹解锁，而旗舰版使用了屏下指纹模块用于解锁。
+   
+   <img src="//inews.gtimg.com/newsapp_bt/0/3951744205/641" style="display:block;">
 
 
-如果存储的对象类名有变动，则需要设置clasName, 方法为：“setClassName:forClass:”        
-使用 NSKeyedArchiver 进行数据持久化时, 系统会默认使用类名去建表，如果类名变了，那么使用新的类名肯定是从本地获取不到表的，代码执行崩溃。     
-所以需要在 NSKeyedArchiver 或者 NSKeyedUnarchiver 时使用 “setClassName:forClass:” 指定类名。 
+### 外观评测     
 
+   与其他vivo机型略有不同，vivo NEX的设计语言是将时尚融入进科技，整机风格相比以往内敛、沉稳。正脸搭载一块6.59英寸的OLED显示屏，采用创新的无刘海设计，搭配超窄边框，整机屏占比达91.24%。点亮屏幕瞬间，无刘海设计所带来的视觉冲击力，比目前市面上任何一款全面屏都要来得更加强烈。
+   
+   <img src="http://img.pc841.com/2018/0612/20180612094227651.jpg" alt="vivo NEX值得买吗？vivo NEX全面评测">
+   
+   <img src="http://img.pc841.com/2018/0612/20180612094314810.jpg" alt="vivo NEX值得买吗？vivo NEX全面评测">
+   
+   
 
-### 断点配置：【Generate Debug Symbols】     
+### Jovi人工智能体验    
 
-描述: 用来控制断点是否生效,关闭此功能，打包 `.ipa` 时，包体积会小很多。    
-配置路径:【project/TARGETS/Build Settings/Apple LLVM7.1 - Code Genneration/Generate Debug Symbols】    
+   vivo Jovi人工智能助手目前在vivo多款机型上已有应用，此次NEX自然不会缺席。Jovi人工智能助手集成人工智能引擎AIE，整合CPU、GPU和DSP等硬件，和Android NN、Hexagon NN等软件框架，以及支持多种设计语言的AI算法，利用软硬件协同作业，使得系统资源调用、逆光监测、智慧识图、游戏引擎优化等诸多功能更加准确和高效。此外，其还支持低功耗待机和全局语音唤醒，具备自学习能力，用户可以自定义增加教学指令。
+   
+   <img src="http://img.pc841.com/2018/0612/20180612094653548.jpg" alt="1.jpg">
+   
+   值得一提的是，NEX机身左侧配备独立的人工智能专属按键。短按触发智慧识屏，自动识别当前屏幕界面信息，智能匹配相应的服务。长按的话则是唤醒语音助手，比使用语音唤醒Jovi更加快捷。NEX内置Jovi S801 AI语音芯片，能准确辨识语音。实际体验中即使用户带一点家乡口音，也丝毫不影响Jovi识别。
 
+### 系统评测
 
-### 捕获全局异常：【All Exception】    
+   系统方面，NEX搭载基于Android 8.1的Funtouch Os 4.0系统，.新增“全新UI设计”，增加“AI动态动态图标系统”和“图标变色”。需要强调的是导航手势操控，它的操作逻辑是，从屏幕底部往上滑完成操控指令。左导航滑出快捷应用，中导航上滑到主界面(滑出停留就能调出正在使用的应用)，右导航则滑回上一级。我们还可以依据自己习惯，自定义设定，整个操作逻辑其实比较简单，上手用一用就习惯了。
+   
+   <img src="http://img.pc841.com/2018/0612/20180612095221789.jpg" alt="vivo NEX值得买吗？vivo NEX全面评测">
+   
+   桌面最左侧集合了负一屏，其中整合了多种功能、服务，为用户提供统一的入口(如常用应用、运动计步、天气信息、近期待办、使用技巧、背单词以及更多第三方服务商接入的服务)，日常使用更便捷，减少使用相应功能的步骤。Hi-Fi方面，NEX传承vivo品牌Hi-Fi基因，延续经典音乐调教风格，采用开创性的SIP封装技术。NEX的Hi-Fi模块占用面积不到xplay6的一半，带来同样出色的音频性能和音质表现（理论动态范围达到130dB，失真为-115dB）。
 
-描述: 用来捕捉整个项目在 Xcode 里执行时的异常。例如：try/catch 时 catch住的异常,【All Exception】可以直接定位到具体位置。     
-配置路径: 异常捕捉(commod+7)/Xcode左下角点击+/Add Exception Breakpoint/完成(回车键)  
-
-
-### UI相关
-
-1、设置状态栏颜色：
-
-```
-
-info.plist 添加 View controller-based status bar appearance - NO     
-代码里写 [[UIApplication sharedApplication] setStatusBarStyle:UIStatusBarStyleLightContent]; 再次运行后状态栏就会变成白色。    
-
-```
-
-2、左滑返回手势失效了怎么办：   
-
-```    
-
-设置 navigationItem.leftBarButtonItem 之后，左滑返回手势就会失效。设置一下 UIGestureRecognizerDelegate 代理即可：
-
-self.navigationController.interactivePopGestureRecognizer.delegate = self;
-
-```
-
-3、让 TableView的 下拉 和 上拉 显示不一样的背景颜色：
-
-```
-
-给 TableView 上加一个 View，View 的 Frema：
-CGRectMake(0, -self.view.bounds.size.height, self.view.bounds.size.width, self.view.bounds.size.height + 2)，
-给变View的背景颜色就可以了。
-
-```
-
-
-<br>
-转载请注明：[潘柏信的博客](http://baixin) » [iOS开发中的小问题记录](http://baixin.io/2016/12/iOS_Dev_Note/)  
-
-
+   <img src="http://img.pc841.com/2018/0612/20180612095315751.jpg" alt="3.jpg">
